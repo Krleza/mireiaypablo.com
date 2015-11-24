@@ -57,7 +57,6 @@ hr {
 	border-top: 3px solid #eee;
 	margin: 30px 0;
 }
-
 img {
 	display: inline-block !important;
 }
@@ -75,6 +74,10 @@ section {
 .btn-lg {
 	font-size: 1em;
 	padding: 15px 30px;
+}
+
+.border_dev{
+	border: 2px red solid;
 }
 
 /* MAIN BANNER
@@ -469,6 +472,7 @@ section {
 =========================================================================================*/
 
 #registry {
+
 	letter-spacing: 0.2em;
 	padding: 30px 0;
 	text-transform: uppercase;
@@ -479,23 +483,13 @@ section {
 	text-align: center;
 }
 
-#registry .item a {
-	border: 1px solid #ddd;
-	display: block;
-	height: 80px;
-	padding: 15px;
-	position: relative;
-}
-
-#registry .item span {
-	display: inline-block;
-	height: 100%;
-	vertical-align: middle;
-}
-
 #registry .item img {
 	max-height: 50px;
 	vertical-align: middle;
+}
+
+.florecillas{
+	margin-bottom: -30px;
 }
 
 /* FOOTER
