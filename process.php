@@ -1,6 +1,6 @@
 <?php
 
-$send_to = 'pablo@pablocarrillo.net';
+$send_to = 'boda@mireiaypablo.com';
 
 $errors         = array();  	// array to hold validation errors
 $data 			= array(); 		// array to pass back data
