@@ -1,6 +1,7 @@
 <?php
 
-$send_to = 'boda@mireiaypablo.com';
+$send_to = 'pablo@pablocarrillo.net, mireiafacal@gmail.com';
+
 
 $errors         = array();  	// array to hold validation errors
 $data 			= array(); 		// array to pass back data
@@ -38,7 +39,7 @@ $data 			= array(); 		// array to pass back data
 
 			Email: ' . $_POST['inputEmail'] . '
 
-			Número de invitados: ' . $_POST['selectInvitados'] . '
+			Nï¿½mero de invitados: ' . $_POST['selectInvitados'] . '
 
 			Hotel Elegido: ' . $_POST['selectHotel'] . '
 
